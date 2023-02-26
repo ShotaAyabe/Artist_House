@@ -3,24 +3,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="add.css">
     <title>ArtistsHouse</title>
-
-    <style type="text/css">
-    #title {
-    display: flex;
-    justify-content: center;
-}
-    #subtitle {
-    display: flex;
-    justify-content: center;
-}
-    </style>
-
-</head>
-
-
-
-
-
+  </head>
   <body>
     <div id="title">
         <h1>ライブハウス登録画面</h1>
